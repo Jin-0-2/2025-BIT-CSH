@@ -1,0 +1,10 @@
+insert into s_product values ('C# Network', 20000, 'C# Netwokr 설명');
+
+update s_product set price = 23000 where pid = 10000;
+update s_product set price = 23000 where pname = 'C언어';
+
+delete from s_product where pid = 2000;
+delete from s_product where pname = 'C언어';
+
+select SUM(price) from s_product;
+select MAX(price) from s_product;

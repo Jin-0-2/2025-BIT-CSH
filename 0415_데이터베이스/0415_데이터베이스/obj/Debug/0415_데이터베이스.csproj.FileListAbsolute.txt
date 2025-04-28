@@ -1,0 +1,7 @@
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0415_데이터베이스\0415_데이터베이스\bin\Debug\0415_데이터베이스.exe.config
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0415_데이터베이스\0415_데이터베이스\bin\Debug\0415_데이터베이스.exe
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0415_데이터베이스\0415_데이터베이스\bin\Debug\0415_데이터베이스.pdb
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0415_데이터베이스\0415_데이터베이스\obj\Debug\0415_데이터베이스.csproj.AssemblyReference.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0415_데이터베이스\0415_데이터베이스\obj\Debug\0415_데이터베이스.csproj.CoreCompileInputs.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0415_데이터베이스\0415_데이터베이스\obj\Debug\0415_데이터베이스.exe
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0415_데이터베이스\0415_데이터베이스\obj\Debug\0415_데이터베이스.pdb

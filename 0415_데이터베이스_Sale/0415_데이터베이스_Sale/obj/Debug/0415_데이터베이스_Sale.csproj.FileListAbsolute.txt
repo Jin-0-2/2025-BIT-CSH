@@ -1,0 +1,7 @@
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0415_데이터베이스_Sale\0415_데이터베이스_Sale\bin\Debug\0415_데이터베이스_Sale.exe.config
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0415_데이터베이스_Sale\0415_데이터베이스_Sale\bin\Debug\0415_데이터베이스_Sale.exe
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0415_데이터베이스_Sale\0415_데이터베이스_Sale\bin\Debug\0415_데이터베이스_Sale.pdb
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0415_데이터베이스_Sale\0415_데이터베이스_Sale\obj\Debug\0415_데이터베이스_Sale.csproj.AssemblyReference.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0415_데이터베이스_Sale\0415_데이터베이스_Sale\obj\Debug\0415_데이터베이스_Sale.csproj.CoreCompileInputs.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0415_데이터베이스_Sale\0415_데이터베이스_Sale\obj\Debug\0415_데이터베이스_Sale.exe
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0415_데이터베이스_Sale\0415_데이터베이스_Sale\obj\Debug\0415_데이터베이스_Sale.pdb
