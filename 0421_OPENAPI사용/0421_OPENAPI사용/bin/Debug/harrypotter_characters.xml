@@ -1,0 +1,833 @@
+<root>
+  <characters>
+    <id>9e3f7ce4-b9a7-4244-b709-dae5c1f1d4a8</id>
+    <name>Harry Potter</name>
+    <alternate_names>The Boy Who Lived</alternate_names>
+    <alternate_names>The Chosen One</alternate_names>
+    <alternate_names>Undesirable No. 1</alternate_names>
+    <alternate_names>Potty</alternate_names>
+    <species>human</species>
+    <gender>male</gender>
+    <house>Gryffindor</house>
+    <dateOfBirth>31-07-1980</dateOfBirth>
+    <yearOfBirth>1980</yearOfBirth>
+    <wizard>true</wizard>
+    <ancestry>half-blood</ancestry>
+    <eyeColour>green</eyeColour>
+    <hairColour>black</hairColour>
+    <wand>
+      <wood>holly</wood>
+      <core>phoenix tail feather</core>
+      <length>11</length>
+    </wand>
+    <patronus>stag</patronus>
+    <hogwartsStudent>true</hogwartsStudent>
+    <hogwartsStaff>false</hogwartsStaff>
+    <actor>Daniel Radcliffe</actor>
+    <alive>true</alive>
+    <image>https://ik.imagekit.io/hpapi/harry.jpg</image>
+  </characters>
+  <characters>
+    <id>4c7e6819-a91a-45b2-a454-f931e4a7cce3</id>
+    <name>Hermione Granger</name>
+    <alternate_names>Hermy</alternate_names>
+    <alternate_names>Know-it-all</alternate_names>
+    <alternate_names>Miss Grant</alternate_names>
+    <alternate_names>Herm-own-ninny</alternate_names>
+    <species>human</species>
+    <gender>female</gender>
+    <house>Gryffindor</house>
+    <dateOfBirth>19-09-1979</dateOfBirth>
+    <yearOfBirth>1979</yearOfBirth>
+    <wizard>true</wizard>
+    <ancestry>muggleborn</ancestry>
+    <eyeColour>brown</eyeColour>
+    <hairColour>brown</hairColour>
+    <wand>
+      <wood>vine</wood>
+      <core>dragon heartstring</core>
+      <length>10.75</length>
+    </wand>
+    <patronus>otter</patronus>
+    <hogwartsStudent>true</hogwartsStudent>
+    <hogwartsStaff>false</hogwartsStaff>
+    <actor>Emma Watson</actor>
+    <alive>true</alive>
+    <image>https://ik.imagekit.io/hpapi/hermione.jpeg</image>
+  </characters>
+  <characters>
+    <id>c3b1f9a5-b87b-48bf-b00d-95b093ea6390</id>
+    <name>Ron Weasley</name>
+    <alternate_names>Dragomir Despard</alternate_names>
+    <alternate_names>Ronald</alternate_names>
+    <alternate_names>Ickle Ronniekins</alternate_names>
+    <alternate_names>Ronnie</alternate_names>
+    <alternate_names>Wheezy</alternate_names>
+    <alternate_names>Won-Won</alternate_names>
+    <alternate_names>Roonil Wazlib</alternate_names>
+    <species>human</species>
+    <gender>male</gender>
+    <house>Gryffindor</house>
+    <dateOfBirth>01-03-1980</dateOfBirth>
+    <yearOfBirth>1980</yearOfBirth>
+    <wizard>true</wizard>
+    <ancestry>pure-blood</ancestry>
+    <eyeColour>blue</eyeColour>
+    <hairColour>red</hairColour>
+    <wand>
+      <wood>willow</wood>
+      <core>unicorn tail hair</core>
+      <length>14</length>
+    </wand>
+    <patronus>Jack Russell terrier</patronus>
+    <hogwartsStudent>true</hogwartsStudent>
+    <hogwartsStaff>false</hogwartsStaff>
+    <actor>Rupert Grint</actor>
+    <alive>true</alive>
+    <image>https://ik.imagekit.io/hpapi/ron.jpg</image>
+  </characters>
+  <characters>
+    <id>af95bd8a-dfae-45bb-bc69-533860d34129</id>
+    <name>Draco Malfoy</name>
+    <species>human</species>
+    <gender>male</gender>
+    <house>Slytherin</house>
+    <dateOfBirth>05-06-1980</dateOfBirth>
+    <yearOfBirth>1980</yearOfBirth>
+    <wizard>true</wizard>
+    <ancestry>pure-blood</ancestry>
+    <eyeColour>grey</eyeColour>
+    <hairColour>blonde</hairColour>
+    <wand>
+      <wood>hawthorn</wood>
+      <core>unicorn tail hair</core>
+      <length>10</length>
+    </wand>
+    <patronus>
+    </patronus>
+    <hogwartsStudent>true</hogwartsStudent>
+    <hogwartsStaff>false</hogwartsStaff>
+    <actor>Tom Felton</actor>
+    <alive>true</alive>
+    <image>https://ik.imagekit.io/hpapi/draco.jpg</image>
+  </characters>
+  <characters>
+    <id>ca3827f0-375a-4891-aaa5-f5e8a5bad225</id>
+    <name>Minerva McGonagall</name>
+    <species>human</species>
+    <gender>female</gender>
+    <house>Gryffindor</house>
+    <dateOfBirth>04-10-1925</dateOfBirth>
+    <yearOfBirth>1925</yearOfBirth>
+    <wizard>true</wizard>
+    <ancestry>half-blood</ancestry>
+    <eyeColour>
+    </eyeColour>
+    <hairColour>black</hairColour>
+    <wand>
+      <wood>fir</wood>
+      <core>dragon heartstring</core>
+      <length>9.5</length>
+    </wand>
+    <patronus>tabby cat</patronus>
+    <hogwartsStudent>false</hogwartsStudent>
+    <hogwartsStaff>true</hogwartsStaff>
+    <actor>Dame Maggie Smith</actor>
+    <alive>true</alive>
+    <image>https://ik.imagekit.io/hpapi/mcgonagall.jpg</image>
+  </characters>
+  <characters>
+    <id>d5c4daa3-c726-426a-aa98-fb40f3fba816</id>
+    <name>Cedric Diggory</name>
+    <species>human</species>
+    <gender>male</gender>
+    <house>Hufflepuff</house>
+    <dateOfBirth />
+    <yearOfBirth>1977</yearOfBirth>
+    <wizard>true</wizard>
+    <ancestry>
+    </ancestry>
+    <eyeColour>grey</eyeColour>
+    <hairColour>brown</hairColour>
+    <wand>
+      <wood>ash</wood>
+      <core>unicorn hair</core>
+      <length>12.25</length>
+    </wand>
+    <patronus>
+    </patronus>
+    <hogwartsStudent>true</hogwartsStudent>
+    <hogwartsStaff>false</hogwartsStaff>
+    <actor>Robert Pattinson</actor>
+    <alive>false</alive>
+    <image>https://ik.imagekit.io/hpapi/cedric.png</image>
+  </characters>
+  <characters>
+    <id>8f9aa40b-5d7c-441e-ad32-4564ecda3b70</id>
+    <name>Cho Chang</name>
+    <species>human</species>
+    <gender>female</gender>
+    <house>Ravenclaw</house>
+    <dateOfBirth>07-04-1979</dateOfBirth>
+    <yearOfBirth>1979</yearOfBirth>
+    <wizard>true</wizard>
+    <ancestry>
+    </ancestry>
+    <eyeColour>brown</eyeColour>
+    <hairColour>black</hairColour>
+    <wand>
+      <wood>
+      </wood>
+      <core>
+      </core>
+      <length />
+    </wand>
+    <patronus>swan</patronus>
+    <hogwartsStudent>true</hogwartsStudent>
+    <hogwartsStaff>false</hogwartsStaff>
+    <actor>Katie Leung</actor>
+    <alive>true</alive>
+    <image>https://ik.imagekit.io/hpapi/cho.jpg</image>
+  </characters>
+  <characters>
+    <id>3569d265-bd27-44d8-88e8-82fb0a848374</id>
+    <name>Severus Snape</name>
+    <alternate_names>Half-Blood Prince</alternate_names>
+    <alternate_names>Snivellus</alternate_names>
+    <alternate_names>Sev</alternate_names>
+    <species>human</species>
+    <gender>male</gender>
+    <house>Slytherin</house>
+    <dateOfBirth>09-01-1960</dateOfBirth>
+    <yearOfBirth>1960</yearOfBirth>
+    <wizard>true</wizard>
+    <ancestry>half-blood</ancestry>
+    <eyeColour>black</eyeColour>
+    <hairColour>black</hairColour>
+    <wand>
+      <wood>
+      </wood>
+      <core>
+      </core>
+      <length />
+    </wand>
+    <patronus>doe</patronus>
+    <hogwartsStudent>false</hogwartsStudent>
+    <hogwartsStaff>true</hogwartsStaff>
+    <actor>Alan Rickman</actor>
+    <alive>false</alive>
+    <image>https://ik.imagekit.io/hpapi/snape.jpg</image>
+  </characters>
+  <characters>
+    <id>36bfefd0-e0bb-4d11-be98-d1ef6117a77a</id>
+    <name>Rubeus Hagrid</name>
+    <alternate_names>Professor Hagrid</alternate_names>
+    <alternate_names>Hagger</alternate_names>
+    <species>half-giant</species>
+    <gender>male</gender>
+    <house>Gryffindor</house>
+    <dateOfBirth>06-12-1928</dateOfBirth>
+    <yearOfBirth>1928</yearOfBirth>
+    <wizard>true</wizard>
+    <ancestry>half-blood</ancestry>
+    <eyeColour>black</eyeColour>
+    <hairColour>black</hairColour>
+    <wand>
+      <wood>oak</wood>
+      <core>
+      </core>
+      <length>16</length>
+    </wand>
+    <patronus>
+    </patronus>
+    <hogwartsStudent>false</hogwartsStudent>
+    <hogwartsStaff>true</hogwartsStaff>
+    <actor>Robbie Coltrane</actor>
+    <alive>true</alive>
+    <image>https://ik.imagekit.io/hpapi/hagrid.png</image>
+  </characters>
+  <characters>
+    <id>3db6dc51-b461-4fa4-a6e4-b1ff352221c5</id>
+    <name>Neville Longbottom</name>
+    <species>human</species>
+    <gender>male</gender>
+    <house>Gryffindor</house>
+    <dateOfBirth>30-07-1980</dateOfBirth>
+    <yearOfBirth>1980</yearOfBirth>
+    <wizard>true</wizard>
+    <ancestry>pure-blood</ancestry>
+    <eyeColour>
+    </eyeColour>
+    <hairColour>blonde</hairColour>
+    <wand>
+      <wood>cherry</wood>
+      <core>unicorn tail hair</core>
+      <length>13</length>
+    </wand>
+    <patronus>Non-Corporeal</patronus>
+    <hogwartsStudent>true</hogwartsStudent>
+    <hogwartsStaff>false</hogwartsStaff>
+    <actor>Matthew Lewis</actor>
+    <alive>true</alive>
+    <image>https://ik.imagekit.io/hpapi/neville.jpg</image>
+  </characters>
+  <characters>
+    <id>861c4cde-2f0f-4796-8d8f-9492e74b2573</id>
+    <name>Luna Lovegood</name>
+    <alternate_names>Loony Lovegood</alternate_names>
+    <species>human</species>
+    <gender>female</gender>
+    <house>Ravenclaw</house>
+    <dateOfBirth>13-02-1981</dateOfBirth>
+    <yearOfBirth>1981</yearOfBirth>
+    <wizard>true</wizard>
+    <ancestry>
+    </ancestry>
+    <eyeColour>silver</eyeColour>
+    <hairColour>blonde</hairColour>
+    <wand>
+      <wood>
+      </wood>
+      <core>
+      </core>
+      <length />
+    </wand>
+    <patronus>hare</patronus>
+    <hogwartsStudent>true</hogwartsStudent>
+    <hogwartsStaff>false</hogwartsStaff>
+    <actor>Evanna Lynch</actor>
+    <alive>true</alive>
+    <image>https://ik.imagekit.io/hpapi/luna.jpg</image>
+  </characters>
+  <characters>
+    <id>1cd6dc64-01a9-4379-9cfd-1a7167ba1bb1</id>
+    <name>Ginny Weasley</name>
+    <species>human</species>
+    <gender>female</gender>
+    <house>Gryffindor</house>
+    <dateOfBirth>11-08-1981</dateOfBirth>
+    <yearOfBirth>1981</yearOfBirth>
+    <wizard>true</wizard>
+    <ancestry>pure-blood</ancestry>
+    <eyeColour>brown</eyeColour>
+    <hairColour>red</hairColour>
+    <wand>
+      <wood>yew</wood>
+      <core>
+      </core>
+      <length />
+    </wand>
+    <patronus>horse</patronus>
+    <hogwartsStudent>true</hogwartsStudent>
+    <hogwartsStaff>false</hogwartsStaff>
+    <actor>Bonnie Wright</actor>
+    <alive>true</alive>
+    <image>https://ik.imagekit.io/hpapi/ginny.jpg</image>
+  </characters>
+  <characters>
+    <id>2cfd2d4b-5d1e-4dc5-8837-37a97c7e2f2f</id>
+    <name>Sirius Black</name>
+    <alternate_names>Padfoot</alternate_names>
+    <alternate_names>Snuffles</alternate_names>
+    <species>human</species>
+    <gender>male</gender>
+    <house>Gryffindor</house>
+    <dateOfBirth>03-11-1959</dateOfBirth>
+    <yearOfBirth>1959</yearOfBirth>
+    <wizard>true</wizard>
+    <ancestry>pure-blood</ancestry>
+    <eyeColour>grey</eyeColour>
+    <hairColour>black</hairColour>
+    <wand>
+      <wood>
+      </wood>
+      <core>
+      </core>
+      <length />
+    </wand>
+    <patronus>hare</patronus>
+    <hogwartsStudent>false</hogwartsStudent>
+    <hogwartsStaff>false</hogwartsStaff>
+    <actor>Gary Oldman</actor>
+    <alternate_actors>James Walters</alternate_actors>
+    <alternate_actors>Rohan Gotobed</alternate_actors>
+    <alive>false</alive>
+    <image>https://ik.imagekit.io/hpapi/sirius.JPG</image>
+  </characters>
+  <characters>
+    <id>b8f9095b-9de6-4d7d-83e0-4391af8f22e4</id>
+    <name>Remus Lupin</name>
+    <alternate_names>Professor Lupin</alternate_names>
+    <alternate_names>Moony</alternate_names>
+    <alternate_names>Remus John Lupin</alternate_names>
+    <species>werewolf</species>
+    <gender>male</gender>
+    <house>Gryffindor</house>
+    <dateOfBirth>10-03-1960</dateOfBirth>
+    <yearOfBirth>1960</yearOfBirth>
+    <wizard>true</wizard>
+    <ancestry>half-blood</ancestry>
+    <eyeColour>green</eyeColour>
+    <hairColour>brown</hairColour>
+    <wand>
+      <wood>cypress</wood>
+      <core>unicorn tail hair</core>
+      <length>10.25</length>
+    </wand>
+    <patronus>wolf</patronus>
+    <hogwartsStudent>false</hogwartsStudent>
+    <hogwartsStaff>true</hogwartsStaff>
+    <actor>David Thewlis</actor>
+    <alive>false</alive>
+    <image>https://ik.imagekit.io/hpapi/lupin.jpg</image>
+  </characters>
+  <characters>
+    <id>dd925874-e800-4eb4-9f0d-4d0fed15634b</id>
+    <name>Arthur Weasley</name>
+    <species>human</species>
+    <gender>male</gender>
+    <house>Gryffindor</house>
+    <dateOfBirth>06-02-1950</dateOfBirth>
+    <yearOfBirth>1950</yearOfBirth>
+    <wizard>true</wizard>
+    <ancestry>pure-blood</ancestry>
+    <eyeColour>blue</eyeColour>
+    <hairColour>red</hairColour>
+    <wand>
+      <wood>
+      </wood>
+      <core>
+      </core>
+      <length />
+    </wand>
+    <patronus>weasel</patronus>
+    <hogwartsStudent>false</hogwartsStudent>
+    <hogwartsStaff>false</hogwartsStaff>
+    <actor>Mark Williams</actor>
+    <alive>true</alive>
+    <image>https://ik.imagekit.io/hpapi/arthur.jpg</image>
+  </characters>
+  <characters>
+    <id>6afb1960-febd-418d-b604-e50c1b59459b</id>
+    <name>Bellatrix Lestrange</name>
+    <alternate_names>Bella</alternate_names>
+    <species>human</species>
+    <gender>female</gender>
+    <house>Slytherin</house>
+    <dateOfBirth />
+    <yearOfBirth>1951</yearOfBirth>
+    <wizard>true</wizard>
+    <ancestry>pure-blood</ancestry>
+    <eyeColour>brown</eyeColour>
+    <hairColour>black</hairColour>
+    <wand>
+      <wood>walnut</wood>
+      <core>dragon heartstring</core>
+      <length>12.75</length>
+    </wand>
+    <patronus>
+    </patronus>
+    <hogwartsStudent>false</hogwartsStudent>
+    <hogwartsStaff>false</hogwartsStaff>
+    <actor>Helena Bonham Carter</actor>
+    <alive>false</alive>
+    <image>https://ik.imagekit.io/hpapi/bellatrix.jpg</image>
+  </characters>
+  <characters>
+    <id>efa802c8-ae18-4ae1-a524-49df21d05939</id>
+    <name>Lord Voldemort</name>
+    <alternate_names>Tom Riddle</alternate_names>
+    <alternate_names>Tom Marvolo Riddle</alternate_names>
+    <alternate_names>You-Know-Who</alternate_names>
+    <alternate_names>He Who Must Not Be Named</alternate_names>
+    <alternate_names>the Dark Lord</alternate_names>
+    <alternate_names>the Heir of Slytherin</alternate_names>
+    <species>human</species>
+    <gender>male</gender>
+    <house>Slytherin</house>
+    <dateOfBirth>31-12-1926</dateOfBirth>
+    <yearOfBirth>1926</yearOfBirth>
+    <wizard>true</wizard>
+    <ancestry>half-blood</ancestry>
+    <eyeColour>Scarlet</eyeColour>
+    <hairColour>bald</hairColour>
+    <wand>
+      <wood>yew</wood>
+      <core>phoenix tail feather</core>
+      <length>13.5</length>
+    </wand>
+    <patronus>
+    </patronus>
+    <hogwartsStudent>false</hogwartsStudent>
+    <hogwartsStaff>false</hogwartsStaff>
+    <actor>Ralph Fiennes</actor>
+    <alive>false</alive>
+    <image>https://ik.imagekit.io/hpapi/voldemort.jpg</image>
+  </characters>
+  <characters>
+    <id>2fb675cd-5505-4c8e-a54e-579e73bf4174</id>
+    <name>Horace Slughorn</name>
+    <species>human</species>
+    <gender>male</gender>
+    <house>Slytherin</house>
+    <dateOfBirth />
+    <yearOfBirth />
+    <wizard>true</wizard>
+    <ancestry>pure-blood</ancestry>
+    <eyeColour>green</eyeColour>
+    <hairColour>blonde</hairColour>
+    <wand>
+      <wood>cedar</wood>
+      <core>dragon heartstring</core>
+      <length>10.25</length>
+    </wand>
+    <patronus>
+    </patronus>
+    <hogwartsStudent>false</hogwartsStudent>
+    <hogwartsStaff>true</hogwartsStaff>
+    <actor>Jim Broadbent</actor>
+    <alive>true</alive>
+    <image>https://ik.imagekit.io/hpapi/slughorn.JPG</image>
+  </characters>
+  <characters>
+    <id>106cf68d-a86a-415e-ad75-6ad9a4ae24e4</id>
+    <name>Kingsley Shacklebolt</name>
+    <species>human</species>
+    <gender>male</gender>
+    <house>
+    </house>
+    <dateOfBirth />
+    <yearOfBirth />
+    <wizard>true</wizard>
+    <ancestry>pure-blood</ancestry>
+    <eyeColour>brown</eyeColour>
+    <hairColour>brown</hairColour>
+    <wand>
+      <wood>
+      </wood>
+      <core>
+      </core>
+      <length />
+    </wand>
+    <patronus>lynx</patronus>
+    <hogwartsStudent>false</hogwartsStudent>
+    <hogwartsStaff>false</hogwartsStaff>
+    <actor>George Harris</actor>
+    <alive>true</alive>
+    <image>https://ik.imagekit.io/hpapi/kingsley.jpg</image>
+  </characters>
+  <characters>
+    <id>d58e7249-19d1-40bd-a43f-1da0497fe8aa</id>
+    <name>Dolores Umbridge</name>
+    <species>human</species>
+    <gender>female</gender>
+    <house>Slytherin</house>
+    <dateOfBirth />
+    <yearOfBirth />
+    <wizard>true</wizard>
+    <ancestry>half-blood</ancestry>
+    <eyeColour>brown</eyeColour>
+    <hairColour>grey</hairColour>
+    <wand>
+      <wood>birch</wood>
+      <core>dragon heartstring</core>
+      <length>8</length>
+    </wand>
+    <patronus>persian cat</patronus>
+    <hogwartsStudent>false</hogwartsStudent>
+    <hogwartsStaff>true</hogwartsStaff>
+    <actor>Imelda Staunton</actor>
+    <alive>true</alive>
+    <image>https://ik.imagekit.io/hpapi/umbridge.jpg</image>
+  </characters>
+  <characters>
+    <id>43403619-70cb-4a0c-b70a-6d5cae20e602</id>
+    <name>Lucius Malfoy</name>
+    <species>human</species>
+    <gender>male</gender>
+    <house>Slytherin</house>
+    <dateOfBirth />
+    <yearOfBirth>1954</yearOfBirth>
+    <wizard>true</wizard>
+    <ancestry>pure-blood</ancestry>
+    <eyeColour>grey</eyeColour>
+    <hairColour>blonde</hairColour>
+    <wand>
+      <wood>elm</wood>
+      <core>dragon heartstring</core>
+      <length>18</length>
+    </wand>
+    <patronus>
+    </patronus>
+    <hogwartsStudent>false</hogwartsStudent>
+    <hogwartsStaff>false</hogwartsStaff>
+    <actor>Jason Isaacs</actor>
+    <alive>true</alive>
+    <image>https://ik.imagekit.io/hpapi/lucius.jpg</image>
+  </characters>
+  <characters>
+    <id>04f9eb45-d843-4e29-a7d3-0bd49ed87f85</id>
+    <name>Vincent Crabbe</name>
+    <species>human</species>
+    <gender>male</gender>
+    <house>Slytherin</house>
+    <dateOfBirth />
+    <yearOfBirth />
+    <wizard>true</wizard>
+    <ancestry>pure-blood</ancestry>
+    <eyeColour>black</eyeColour>
+    <hairColour>black</hairColour>
+    <wand>
+      <wood>
+      </wood>
+      <core>
+      </core>
+      <length />
+    </wand>
+    <patronus>
+    </patronus>
+    <hogwartsStudent>true</hogwartsStudent>
+    <hogwartsStaff>false</hogwartsStaff>
+    <actor>Jamie Waylett</actor>
+    <alive>false</alive>
+    <image>https://ik.imagekit.io/hpapi/crabbe.jpg</image>
+  </characters>
+  <characters>
+    <id>32923dab-16e1-4da1-8af7-bf9bec9ece1b</id>
+    <name>Mr Crabbe</name>
+    <species>human</species>
+    <gender>male</gender>
+    <house>
+    </house>
+    <dateOfBirth />
+    <yearOfBirth />
+    <wizard>true</wizard>
+    <ancestry>pure-blood</ancestry>
+    <eyeColour>
+    </eyeColour>
+    <hairColour>
+    </hairColour>
+    <wand>
+      <wood>
+      </wood>
+      <core>
+      </core>
+      <length />
+    </wand>
+    <patronus>
+    </patronus>
+    <hogwartsStudent>false</hogwartsStudent>
+    <hogwartsStaff>false</hogwartsStaff>
+    <actor>Paschal Friel</actor>
+    <alive>false</alive>
+    <image>
+    </image>
+  </characters>
+  <characters>
+    <id>a31ddc78-af12-4978-929c-3cc8a00a833e</id>
+    <name>Gregory Goyle</name>
+    <species>human</species>
+    <gender>male</gender>
+    <house>Slytherin</house>
+    <dateOfBirth />
+    <yearOfBirth />
+    <wizard>true</wizard>
+    <ancestry>pure-blood</ancestry>
+    <eyeColour>
+    </eyeColour>
+    <hairColour>brown</hairColour>
+    <wand>
+      <wood>
+      </wood>
+      <core>
+      </core>
+      <length />
+    </wand>
+    <patronus>
+    </patronus>
+    <hogwartsStudent>true</hogwartsStudent>
+    <hogwartsStaff>false</hogwartsStaff>
+    <actor>Josh Herdman</actor>
+    <alive>true</alive>
+    <image>https://ik.imagekit.io/hpapi/goyle.jpg</image>
+  </characters>
+  <characters>
+    <id>0d72d9ce-9560-4e72-bd2e-f0af02f32caa</id>
+    <name>Mr Goyle</name>
+    <species>human</species>
+    <gender>male</gender>
+    <house>
+    </house>
+    <dateOfBirth />
+    <yearOfBirth />
+    <wizard>true</wizard>
+    <ancestry>pure-blood</ancestry>
+    <eyeColour>
+    </eyeColour>
+    <hairColour>
+    </hairColour>
+    <wand>
+      <wood>
+      </wood>
+      <core>
+      </core>
+      <length />
+    </wand>
+    <patronus>
+    </patronus>
+    <hogwartsStudent>true</hogwartsStudent>
+    <hogwartsStaff>false</hogwartsStaff>
+    <actor>Alex Palmer</actor>
+    <alive>true</alive>
+    <image>
+    </image>
+  </characters>
+  <characters>
+    <id>b0620914-858d-46fc-8e6d-033c565e138b</id>
+    <name>Mrs Norris</name>
+    <species>cat</species>
+    <gender>female</gender>
+    <house>
+    </house>
+    <dateOfBirth />
+    <yearOfBirth />
+    <wizard>false</wizard>
+    <ancestry>
+    </ancestry>
+    <eyeColour>yellow</eyeColour>
+    <hairColour>brown</hairColour>
+    <wand>
+      <wood>
+      </wood>
+      <core>
+      </core>
+      <length />
+    </wand>
+    <patronus>
+    </patronus>
+    <hogwartsStudent>false</hogwartsStudent>
+    <hogwartsStaff>true</hogwartsStaff>
+    <actor>Maxime, Alanis and Tommy the cats</actor>
+    <alive>true</alive>
+    <image>https://ik.imagekit.io/hpapi/norris.JPG</image>
+  </characters>
+  <characters>
+    <id>2b82cfb8-0440-4a57-a030-6d75a40c0d98</id>
+    <name>Argus Filch</name>
+    <species>human</species>
+    <gender>male</gender>
+    <house>
+    </house>
+    <dateOfBirth />
+    <yearOfBirth />
+    <wizard>false</wizard>
+    <ancestry>squib</ancestry>
+    <eyeColour>
+    </eyeColour>
+    <hairColour>grey</hairColour>
+    <wand>
+      <wood>
+      </wood>
+      <core>
+      </core>
+      <length />
+    </wand>
+    <patronus>
+    </patronus>
+    <hogwartsStudent>false</hogwartsStudent>
+    <hogwartsStaff>true</hogwartsStaff>
+    <actor>David Bradley</actor>
+    <alive>true</alive>
+    <image>https://ik.imagekit.io/hpapi/filch.jpg</image>
+  </characters>
+  <characters>
+    <id>b4ffe89b-8796-42ad-a6d9-5af1a369af7e</id>
+    <name>Vernon Dursley</name>
+    <species>human</species>
+    <gender>male</gender>
+    <house>
+    </house>
+    <dateOfBirth />
+    <yearOfBirth />
+    <wizard>false</wizard>
+    <ancestry>muggle</ancestry>
+    <eyeColour>
+    </eyeColour>
+    <hairColour>
+    </hairColour>
+    <wand>
+      <wood>
+      </wood>
+      <core>
+      </core>
+      <length />
+    </wand>
+    <patronus>
+    </patronus>
+    <hogwartsStudent>false</hogwartsStudent>
+    <hogwartsStaff>false</hogwartsStaff>
+    <actor>Richard Griffiths</actor>
+    <alive>true</alive>
+    <image>
+    </image>
+  </characters>
+  <characters>
+    <id>fed624df-56d9-495e-9ad4-ea77000957e8</id>
+    <name>Petunia Dursley</name>
+    <species>human</species>
+    <gender>female</gender>
+    <house>
+    </house>
+    <dateOfBirth />
+    <yearOfBirth />
+    <wizard>false</wizard>
+    <ancestry>muggle</ancestry>
+    <eyeColour>
+    </eyeColour>
+    <hairColour>blonde</hairColour>
+    <wand>
+      <wood>
+      </wood>
+      <core>
+      </core>
+      <length />
+    </wand>
+    <patronus>
+    </patronus>
+    <hogwartsStudent>false</hogwartsStudent>
+    <hogwartsStaff>false</hogwartsStaff>
+    <actor>Fiona Shaw</actor>
+    <alive>true</alive>
+    <image>
+    </image>
+  </characters>
+  <characters>
+    <id>7614cf6e-689e-47ac-a976-b1e9997637e9</id>
+    <name>Dudley Dursley</name>
+    <species>human</species>
+    <gender>male</gender>
+    <house>
+    </house>
+    <dateOfBirth>23-6-1980</dateOfBirth>
+    <yearOfBirth>1980</yearOfBirth>
+    <wizard>false</wizard>
+    <ancestry>muggle</ancestry>
+    <eyeColour>blue</eyeColour>
+    <hairColour>blond</hairColour>
+    <wand>
+      <wood>
+      </wood>
+      <core>
+      </core>
+      <length />
+    </wand>
+    <patronus>
+    </patronus>
+    <hogwartsStudent>false</hogwartsStudent>
+    <hogwartsStaff>false</hogwartsStaff>
+    <actor>Harry Melling</actor>
+    <alive>true</alive>
+    <image>
+    </image>
+  </characters>
+</root>
