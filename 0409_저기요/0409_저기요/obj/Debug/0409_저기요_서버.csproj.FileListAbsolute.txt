@@ -1,0 +1,7 @@
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0409_저기요\0409_저기요\bin\Debug\0409_저기요.exe.config
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0409_저기요\0409_저기요\bin\Debug\0409_저기요.exe
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0409_저기요\0409_저기요\bin\Debug\0409_저기요.pdb
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0409_저기요\0409_저기요\obj\Debug\0409_저기요_서버.csproj.AssemblyReference.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0409_저기요\0409_저기요\obj\Debug\0409_저기요_서버.csproj.CoreCompileInputs.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0409_저기요\0409_저기요\obj\Debug\0409_저기요.exe
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0409_저기요\0409_저기요\obj\Debug\0409_저기요.pdb

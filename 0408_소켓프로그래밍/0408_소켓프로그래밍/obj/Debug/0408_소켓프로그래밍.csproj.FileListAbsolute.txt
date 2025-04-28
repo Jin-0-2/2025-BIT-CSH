@@ -1,0 +1,7 @@
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0408_소켓프로그래밍\0408_소켓프로그래밍\bin\Debug\0408_소켓프로그래밍.exe.config
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0408_소켓프로그래밍\0408_소켓프로그래밍\bin\Debug\0408_소켓프로그래밍.exe
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0408_소켓프로그래밍\0408_소켓프로그래밍\bin\Debug\0408_소켓프로그래밍.pdb
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0408_소켓프로그래밍\0408_소켓프로그래밍\obj\Debug\0408_소켓프로그래밍.csproj.AssemblyReference.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0408_소켓프로그래밍\0408_소켓프로그래밍\obj\Debug\0408_소켓프로그래밍.csproj.CoreCompileInputs.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0408_소켓프로그래밍\0408_소켓프로그래밍\obj\Debug\0408_소켓프로그래밍.exe
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0408_소켓프로그래밍\0408_소켓프로그래밍\obj\Debug\0408_소켓프로그래밍.pdb
