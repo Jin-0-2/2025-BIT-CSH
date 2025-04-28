@@ -1,0 +1,7 @@
+C:\Users\jjy02\OneDrive\바탕 화면\C#\MemeberAttendence\MemeberAttendence\obj\Debug\MemeberAttendence.csproj.AssemblyReference.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\MemeberAttendence\MemeberAttendence\obj\Debug\MemeberAttendence.csproj.CoreCompileInputs.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\MemeberAttendence\MemeberAttendence\bin\Debug\MemeberAttendence.exe.config
+C:\Users\jjy02\OneDrive\바탕 화면\C#\MemeberAttendence\MemeberAttendence\bin\Debug\MemeberAttendence.exe
+C:\Users\jjy02\OneDrive\바탕 화면\C#\MemeberAttendence\MemeberAttendence\bin\Debug\MemeberAttendence.pdb
+C:\Users\jjy02\OneDrive\바탕 화면\C#\MemeberAttendence\MemeberAttendence\obj\Debug\MemeberAttendence.exe
+C:\Users\jjy02\OneDrive\바탕 화면\C#\MemeberAttendence\MemeberAttendence\obj\Debug\MemeberAttendence.pdb

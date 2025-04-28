@@ -1,0 +1,8 @@
+C:\Users\jjy02\OneDrive\바탕 화면\C#\joe\joe\bin\Debug\joe.exe.config
+C:\Users\jjy02\OneDrive\바탕 화면\C#\joe\joe\bin\Debug\joe.exe
+C:\Users\jjy02\OneDrive\바탕 화면\C#\joe\joe\bin\Debug\joe.pdb
+C:\Users\jjy02\OneDrive\바탕 화면\C#\joe\joe\obj\Debug\joe.csproj.AssemblyReference.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\joe\joe\obj\Debug\joe.csproj.CoreCompileInputs.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\joe\joe\obj\Debug\joe.exe
+C:\Users\jjy02\OneDrive\바탕 화면\C#\joe\joe\obj\Debug\joe.pdb
+C:\Users\jjy02\OneDrive\바탕 화면\C#\joe\joe\obj\Debug\joe.csproj.Up2Date

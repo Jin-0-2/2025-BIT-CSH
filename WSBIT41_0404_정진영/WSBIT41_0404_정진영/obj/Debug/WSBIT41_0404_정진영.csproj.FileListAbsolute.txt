@@ -1,0 +1,7 @@
+C:\Users\jjy02\OneDrive\바탕 화면\C#\WSBIT41_0404_정진영\WSBIT41_0404_정진영\bin\Debug\WSBIT41_0404_정진영.exe.config
+C:\Users\jjy02\OneDrive\바탕 화면\C#\WSBIT41_0404_정진영\WSBIT41_0404_정진영\bin\Debug\WSBIT41_0404_정진영.exe
+C:\Users\jjy02\OneDrive\바탕 화면\C#\WSBIT41_0404_정진영\WSBIT41_0404_정진영\bin\Debug\WSBIT41_0404_정진영.pdb
+C:\Users\jjy02\OneDrive\바탕 화면\C#\WSBIT41_0404_정진영\WSBIT41_0404_정진영\obj\Debug\WSBIT41_0404_정진영.csproj.AssemblyReference.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\WSBIT41_0404_정진영\WSBIT41_0404_정진영\obj\Debug\WSBIT41_0404_정진영.csproj.CoreCompileInputs.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\WSBIT41_0404_정진영\WSBIT41_0404_정진영\obj\Debug\WSBIT41_0404_정진영.exe
+C:\Users\jjy02\OneDrive\바탕 화면\C#\WSBIT41_0404_정진영\WSBIT41_0404_정진영\obj\Debug\WSBIT41_0404_정진영.pdb

@@ -1,0 +1,6 @@
+C:\Users\jjy02\OneDrive\바탕 화면\C#\Makedll\Makedll\bin\Debug\Makedll.dll
+C:\Users\jjy02\OneDrive\바탕 화면\C#\Makedll\Makedll\bin\Debug\Makedll.pdb
+C:\Users\jjy02\OneDrive\바탕 화면\C#\Makedll\Makedll\obj\Debug\Makedll.csproj.AssemblyReference.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\Makedll\Makedll\obj\Debug\Makedll.csproj.CoreCompileInputs.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\Makedll\Makedll\obj\Debug\Makedll.dll
+C:\Users\jjy02\OneDrive\바탕 화면\C#\Makedll\Makedll\obj\Debug\Makedll.pdb
