@@ -1,0 +1,7 @@
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0402_Netflix\0402_Netflix\bin\Debug\0402_Netflix.exe.config
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0402_Netflix\0402_Netflix\bin\Debug\0402_Netflix.exe
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0402_Netflix\0402_Netflix\bin\Debug\0402_Netflix.pdb
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0402_Netflix\0402_Netflix\obj\Debug\0402_Netflix.csproj.AssemblyReference.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0402_Netflix\0402_Netflix\obj\Debug\0402_Netflix.csproj.CoreCompileInputs.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0402_Netflix\0402_Netflix\obj\Debug\0402_Netflix.exe
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0402_Netflix\0402_Netflix\obj\Debug\0402_Netflix.pdb

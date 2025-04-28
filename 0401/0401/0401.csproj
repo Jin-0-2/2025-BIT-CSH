@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F9951AE5-889A-45E9-A237-7DE7F50D6A3F}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>_0401</RootNamespace>
+    <AssemblyName>0401</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="03_object재정의.cs" />
+    <None Include="01_입출력.cs" />
+    <None Include="Program.cs" />
+    <None Include="04_박싱과언박싱.cs" />
+    <None Include="05_직렬화.cs" />
+    <None Include="06_인자전달.cs" />
+    <None Include="00_text.cs" />
+    <None Include="07_캡슐화.cs" />
+    <None Include="08_인덱서.cs" />
+    <None Include="09_정적생성.cs" />
+    <None Include="10_싱글톤패턴.cs" />
+    <None Include="11_소멸자.cs" />
+    <None Include="12_정적멤버.cs" />
+    <None Include="13_정적클래스.cs" />
+    <None Include="00.cs" />
+    <None Include="14_List.cs" />
+    <None Include="15_LinkedList.cs" />
+    <None Include="16_List.cs" />
+    <None Include="17_LinkedList.cs" />
+    <None Include="18_Dictionary.cs" />
+    <None Include="19_대리자.cs" />
+    <None Include="20_비동기.cs" />
+    <None Include="21_이벤트.cs" />
+    <Compile Include="22_Thread.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <None Include="02_string.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

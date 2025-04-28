@@ -1,0 +1,7 @@
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0402_계좌관리프로그램\0402_계좌관리프로그램\bin\Debug\0402_계좌관리프로그램.exe.config
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0402_계좌관리프로그램\0402_계좌관리프로그램\bin\Debug\0402_계좌관리프로그램.exe
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0402_계좌관리프로그램\0402_계좌관리프로그램\bin\Debug\0402_계좌관리프로그램.pdb
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0402_계좌관리프로그램\0402_계좌관리프로그램\obj\Debug\0402_계좌관리프로그램.csproj.AssemblyReference.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0402_계좌관리프로그램\0402_계좌관리프로그램\obj\Debug\0402_계좌관리프로그램.csproj.CoreCompileInputs.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0402_계좌관리프로그램\0402_계좌관리프로그램\obj\Debug\0402_계좌관리프로그램.exe
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0402_계좌관리프로그램\0402_계좌관리프로그램\obj\Debug\0402_계좌관리프로그램.pdb
