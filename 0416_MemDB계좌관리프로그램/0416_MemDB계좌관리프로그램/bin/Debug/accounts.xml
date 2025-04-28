@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<Account>
+  <Account>
+    <id>1000</id>
+    <name>둘리</name>
+    <balance>5000</balance>
+    <date>2025-04-16T21:18:01.0496665+09:00</date>
+  </Account>
+  <Account>
+    <id>1010</id>
+    <name>또치</name>
+    <balance>35000</balance>
+    <date>2025-04-16T21:18:01.0496665+09:00</date>
+  </Account>
+  <AccountIO>
+    <Aid>10</Aid>
+    <id>1000</id>
+    <input>10000</input>
+    <output>0</output>
+    <balance>10000</balance>
+    <date>2025-04-16T21:18:01.0516861+09:00</date>
+  </AccountIO>
+  <AccountIO>
+    <Aid>20</Aid>
+    <id>1010</id>
+    <input>30000</input>
+    <output>0</output>
+    <balance>30000</balance>
+    <date>2025-04-16T21:18:01.0516861+09:00</date>
+  </AccountIO>
+  <AccountIO>
+    <Aid>30</Aid>
+    <id>1000</id>
+    <input>0</input>
+    <output>5000</output>
+    <balance>5000</balance>
+    <date>2025-04-16T21:18:01.0516861+09:00</date>
+  </AccountIO>
+  <AccountIO>
+    <Aid>40</Aid>
+    <id>1010</id>
+    <input>5000</input>
+    <output>0</output>
+    <balance>35000</balance>
+    <date>2025-04-16T21:18:01.0516861+09:00</date>
+  </AccountIO>
+</Account>

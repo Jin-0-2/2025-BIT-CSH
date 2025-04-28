@@ -1,0 +1,14 @@
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0418_test\0418_test\bin\Debug\0418_test.exe.config
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0418_test\0418_test\bin\Debug\0418_test.exe
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0418_test\0418_test\bin\Debug\0418_test.pdb
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0418_test\0418_test\obj\Debug\0418_test.csproj.AssemblyReference.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0418_test\0418_test\obj\Debug\0418_test.csproj.CoreCompileInputs.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0418_test\0418_test\obj\Debug\0418_test.exe
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0418_test\0418_test\obj\Debug\0418_test.pdb
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0418_test_41기정진영\0418_test\bin\Debug\0418_test.exe.config
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0418_test_41기정진영\0418_test\bin\Debug\0418_test.exe
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0418_test_41기정진영\0418_test\bin\Debug\0418_test.pdb
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0418_test_41기정진영\0418_test\obj\Debug\0418_test.csproj.AssemblyReference.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0418_test_41기정진영\0418_test\obj\Debug\0418_test.csproj.CoreCompileInputs.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0418_test_41기정진영\0418_test\obj\Debug\0418_test.exe
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0418_test_41기정진영\0418_test\obj\Debug\0418_test.pdb

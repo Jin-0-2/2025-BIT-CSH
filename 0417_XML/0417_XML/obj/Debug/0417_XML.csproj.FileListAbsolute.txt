@@ -1,0 +1,7 @@
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0417_XML\0417_XML\bin\Debug\0417_XML.exe.config
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0417_XML\0417_XML\bin\Debug\0417_XML.exe
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0417_XML\0417_XML\bin\Debug\0417_XML.pdb
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0417_XML\0417_XML\obj\Debug\0417_XML.csproj.AssemblyReference.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0417_XML\0417_XML\obj\Debug\0417_XML.csproj.CoreCompileInputs.cache
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0417_XML\0417_XML\obj\Debug\0417_XML.exe
+C:\Users\jjy02\OneDrive\바탕 화면\C#\0417_XML\0417_XML\obj\Debug\0417_XML.pdb

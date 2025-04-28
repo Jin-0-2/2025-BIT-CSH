@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XML 생성~ Account용도임 17/4/25-->
+<WB41>
+  <Account>
+    <id>1000</id>
+    <name>둘리</name>
+    <balance>0</balance>
+    <date>2025-04-17 오후 8:58:45</date>
+  </Account>
+  <Account>
+    <id>1010</id>
+    <name>또치</name>
+    <balance>98000</balance>
+    <date>2025-04-17 오후 9:09:10</date>
+  </Account>
+  <Account>
+    <id>1010</id>
+    <name>둘리</name>
+    <balance>0</balance>
+    <date>2025-04-17 오후 9:57:55</date>
+  </Account>
+</WB41>
