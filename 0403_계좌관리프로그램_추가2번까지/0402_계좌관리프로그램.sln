@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0402_계좌관리프로그램", "0402_계좌관리프로그램\0402_계좌관리프로그램.csproj", "{545DA12C-0B8D-4CBF-8EBA-BA75AA84F6DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{545DA12C-0B8D-4CBF-8EBA-BA75AA84F6DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545DA12C-0B8D-4CBF-8EBA-BA75AA84F6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545DA12C-0B8D-4CBF-8EBA-BA75AA84F6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545DA12C-0B8D-4CBF-8EBA-BA75AA84F6DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {427F77CA-AE1A-4231-96AF-1EBFD53B8AA3}
+	EndGlobalSection
+EndGlobal

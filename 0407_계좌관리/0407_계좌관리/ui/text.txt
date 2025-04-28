@@ -1,0 +1,21 @@
+ui가 입력 출력을 받는다.
+
+------------
+|<<static>>|
+|  WbLib   |
+|	       |
+|<<static>>|
+|  WbFile  |
+------------
+
+<<ui, 게시자>>
+InsertAccount
+
+<<ui, 게시자>>
+SelectAccount
+
+<<ui, 게시자>>
+InputAccount
+
+<<ui, 게시자>>
+OutputAccount

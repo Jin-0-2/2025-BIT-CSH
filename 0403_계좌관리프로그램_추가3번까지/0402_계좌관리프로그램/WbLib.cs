@@ -1,0 +1,100 @@
+﻿// WbLib.cs
+using System;
+
+
+namespace WSBit41JJY.Lib
+{
+    internal static class WbLib
+    {
+        #region 1. 로고, 메뉴, 종료 출력 메시지
+        public static void Pause()
+        {
+            Console.WriteLine("\n계속하려면 아무 키나 누르세요...");
+            Console.ReadKey(true);
+        }
+        public static void Logo()
+        {
+            Console.Clear();
+            
+            Console.WriteLine("==========================================================================");
+            Console.WriteLine(" 2025학년도 1학기 비트 고급과정 41기 ");
+            Console.WriteLine(" C#언어" );
+            Console.WriteLine(" 계좌 관리 프로그램(추추추추추가__최최최최최종_진짜찐막)");
+            Console.WriteLine(" 2025-04-03");
+            Console.WriteLine(" JJY");
+            Console.WriteLine("==========================================================================");
+            Pause();
+        }
+        
+
+        public static ConsoleKey MenuPrint()
+        {
+            Console.WriteLine("==========================================================================");
+            Console.WriteLine("[ESC] 프로그램 종료");
+            Console.Write("[F1] 계좌 저장\t"); 
+            Console.Write("[Q]  기부 계좌 저장");
+            Console.WriteLine("[W]  신용 계좌 저장");
+            Console.WriteLine("[F2] 계좌 검색(계좌번호,Uniq)");
+            Console.WriteLine("[F3] 계좌 검색(이름, all)");
+            Console.WriteLine("[F4] 계좌 수정(입금)");
+            Console.WriteLine("[F5] 계좌 수정(출금)");
+            Console.WriteLine("[F6] 계좌 정렬(계좌번호)");
+            Console.WriteLine("[F7] 계좌 정렬(이름)");
+            Console.WriteLine("[F8] 계좌 삭제");
+            Console.WriteLine("==========================================================================");
+            return Console.ReadKey(true).Key;
+        }
+
+        public static void Ending()
+        {
+            Console.Clear();
+            Console.WriteLine("==========================================================================");
+            Console.WriteLine(" 프로그램을 종료합니다.");
+            Console.WriteLine("==========================================================================");
+            Pause();
+        }
+        #endregion
+
+        #region 2. 입력
+        public static int InputNumber(string msg)
+        {
+            Console.Write(msg + " : ");
+
+            return int.Parse(Console.ReadLine());
+        }
+
+        public static float InputFloat(string msg)
+        {
+            Console.Write(msg + " : ");
+
+            return float.Parse(Console.ReadLine());
+        }
+
+        public static char InputChar(string msg)
+        {
+            Console.Write(msg + " : ");
+
+            return char.Parse(Console.ReadLine());
+        }
+
+        public static string InputString(string msg)
+        {
+            Console.Write(msg + " : ");
+
+            return Console.ReadLine();
+        }
+        #endregion
+
+        #region 3. 날짜/시간 문자열로 변환
+        public static string Get_Date(DateTime time)
+        {
+            return string.Format("{0}-{1}-{2}", time.Year, time.Month, time.Day);
+        }
+
+        public static string Get_Time(DateTime time)
+        {
+            return string.Format("{0}:{1}:{2}", time.Hour, time.Minute, time.Second);
+        }
+        #endregion
+    }
+}
